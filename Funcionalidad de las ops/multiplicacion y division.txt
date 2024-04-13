@@ -1,3 +1,0 @@
-multiplicacion *
-division /       (1/0 da error)
-
