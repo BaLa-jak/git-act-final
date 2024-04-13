@@ -1,4 +1,0 @@
-input 
-donde el usuraio mete la informacion
-
-este archivo depende del diseño visual
