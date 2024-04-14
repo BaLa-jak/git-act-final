@@ -1,3 +1,5 @@
 multijugador 
 
-no esta terminado esta al 50%
+
+
+terminado  ✔
